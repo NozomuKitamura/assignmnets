@@ -9,3 +9,4 @@ def get_price() :
     print(text[start_of_price:end_of_price] )
 
 get_price()
+print('thhis works!')
