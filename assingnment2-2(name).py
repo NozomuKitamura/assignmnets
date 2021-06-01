@@ -1,7 +1,7 @@
 scores = []
 result_f = open("results.txt")
 for line in result_f:
-    (name, score, age) = line.split()
+    (name, score, age) = line.split('|')
     scores.append(str(name))   # 'joseph ' != 'joseph'
 result_f.close()
 scores.sort()
