@@ -1,0 +1,10 @@
+Jeans|XS|Purple|1|
+T-Shirts|S|Red|2|
+Polos|M|Blue|3|
+Shirts|L|Yellow|4|
+Hoodies|XL|Green|5|
+Sweatshirts & Sweatpants|XXL|Orange|6|
+Sweaters| | |7|
+Outerwear & Blazers| | |8|
+Pants| | |9|
+Joggers| | |10|

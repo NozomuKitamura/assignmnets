@@ -1,0 +1,42 @@
+Category:
+Hoodies
+Size:
+M
+Color:
+Blue
+Quantity:
+4
+Name:
+Nozomu Kitamura
+Address:
+1341 Caminito Gabaldon
+#F
+San Diego, CA, 92108-1424
+US
+
+Category:
+T-Shirts
+Size:
+L
+Color:
+Green
+Quantity:
+4
+Name:
+Matthew Loschiavo
+Address:
+2725 Congress St Suite 2M, San Diego, CA 92110
+
+Category:
+Outerwear & Blazers
+Size:
+M
+Color:
+Red
+Quantity:
+2
+Name:
+Mark Zuckerberg
+Address:
+1456 Edgewood Drive, Palo Alto, California 94301
+
